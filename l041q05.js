@@ -27,3 +27,6 @@ if (media >= 5){
 } else {
     console.log(`Você foi Reprovado, a sua média é ${media.toFixed(1)}`)
 }
+
+// Comentário inserido em 17/06/26
+
