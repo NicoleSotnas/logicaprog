@@ -13,3 +13,5 @@ media = (num1 + num2 + num3) / 3
 
 console.log(`A media desses numeros seria ${media}`)
 
+// Comentário realizado 17/06/26
+
