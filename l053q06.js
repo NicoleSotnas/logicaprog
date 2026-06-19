@@ -8,7 +8,7 @@ let pot;
 
 
 base = 2
-expo = 4
+expo = 6
 pot = 1
 
 for(cont = 1; cont <= expo; cont++){
